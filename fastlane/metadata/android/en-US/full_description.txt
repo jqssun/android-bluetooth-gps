@@ -1,0 +1,3 @@
+A free and open-source app that turns your Android device into a Bluetooth GPS receiver for Apple devices and others. It implements the Apple accessory protocol over Bluetooth, so they can use the Android device's real-time location as if it were an external GPS accessory. This is particularly useful for pilots flying with iPad models with no cellular connectivity.
+
+Location can come from the device's GNSS fix, its NMEA output, or a custom position. Accessory identification is adjustable for better compatibility with other devices.
